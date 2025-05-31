@@ -1,0 +1,13 @@
+paso a paso
+
+--creación de proyecto en GitHub
+--clonar repositorio en carpeta local
+--creación de entorno virtual
+	py -m venv venv_dist
+--activar entorno virtual
+	(situarse en venv_dist/Scripts)./actívate
+--volver a la carpeta clonada en el repositorio
+--descargar la versión de django a usar
+	py -m pip install Django==4.2
+--iniciar descargar de archivos base para el proyecto
+	
